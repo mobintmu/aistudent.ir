@@ -1,4 +1,4 @@
 baseURL = 'https://aistudent.ir/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'آموزش هوش مصنوعی'
 theme = 'blist'
